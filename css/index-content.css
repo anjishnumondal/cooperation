@@ -1,0 +1,18 @@
+div.index-content {
+	
+	padding: 1%;
+}
+
+label.introduction {
+	font-size: 28px;
+	font-family: TrajanProRegular;
+	color: #545454;	
+}
+label.content {
+	font-size: 16px;
+	font-family: Shonar;
+	color: #545454;
+	padding: 0.8%;
+	text-align: justify;
+    text-justify: inter-word;
+}

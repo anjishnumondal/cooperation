@@ -1,0 +1,25 @@
+div.menuheader {
+	background: #007FFF;
+	color: #E0ECF8;
+	padding-top: 3%;
+	font-size: 22px;
+	font-family: TrajanProBold;
+}
+div.menu {
+	border: 3px solid #007FFF;
+	padding-top: 1%;
+	font-size: 22px;
+	font-style: bold;
+	font-family: Shonar;
+}
+div.menu-items {
+	border-bottom: 1px solid #007FFF;
+	padding-left: 10%;
+}
+a:link {
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: none;
+}

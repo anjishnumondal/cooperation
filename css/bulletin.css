@@ -1,0 +1,11 @@
+div.bulletinheader {
+	background: #007FFF;
+	color: #E0ECF8;
+	padding-top: 3%;
+	font-size: 22px;
+	font-family: TrajanProBold;
+}
+
+div.bulletin {
+	border: 3px solid #077FFF;
+}

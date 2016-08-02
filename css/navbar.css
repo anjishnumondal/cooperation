@@ -1,0 +1,31 @@
+body {
+  margin: 0;
+}
+
+nav {
+    list-style-type: none;
+    margin: 0;
+    padding-left: 3%;
+    padding-right: 3%;
+    overflow: hidden;
+    background-color: #007FFF;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-family: Book Antiqua;
+    font-style: bold;
+    font-size: 110%;
+}
+
+li a:hover {
+    background-color: #0058b1;
+}
