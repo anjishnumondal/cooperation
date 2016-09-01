@@ -1,6 +1,10 @@
 div.index-content {
 	
 	padding: 1%;
+	background: linear-gradient(to top left, #c4e1ff, #FFFFFF);
+	background: -moz-linear-gradient(to top left, #c4e1ff, #FFFFFF);
+	background: -o-linear-gradient(to top left, #c4e1ff, #FFFFFF);
+	padding: 5%
 }
 
 label.introduction {

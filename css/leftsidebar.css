@@ -11,6 +11,9 @@ div.menu {
 	font-size: 22px;
 	font-style: bold;
 	font-family: Shonar;
+	background: linear-gradient(to top left, #c4e1ff, #FFFFFF);
+	background: -moz-linear-gradient(to top left, #c4e1ff, #FFFFFF);
+	background: -o-linear-gradient(to top left, #c4e1ff, #FFFFFF);
 }
 div.menu-items {
 	border-bottom: 1px solid #007FFF;
